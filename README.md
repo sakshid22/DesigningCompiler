@@ -1,2 +1,12 @@
- # DesigningCompiler
-This project aims at designing a compiler for a new programming language. It will be carried out in several phases. First and foremost, I designed a scanner which can identify tokens according to the prescribed grammar of the language. In the second phase, I developed a Parser which is dedicated to parse the scanned tokens according to the prescibed rules of this new programming language. In further phases, I will be desining an Abstarct Syntax Tree &amp; Type Checking. In the final phase, I hope to compile a code on this new progarmming language. The final codes are available on request.
+# DesigningCompiler
+This project aims at designing a compiler for a new image processing language. It is carried out in several phases:
+•	Scanner
+•	Simple Parser
+•	Parser
+•	Type Checker
+•	Intermediate Code Generation
+•	Code Generation
+ Referred Resources:
+•	Programming Language Pragmatics by Michael L. Scott
+•	Formal Syntax and Semantics of Programming Languages by  Kenneth Slonneger &  Barry L. Kurtz 
+•	Design Patterns: Elements of Reusable Object-Oriented Software by 'Gang of Four'
